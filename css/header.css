@@ -1,0 +1,53 @@
+.intro {
+  display: block;
+  background: #b36050;
+  border-radius: 0px;
+}
+
+.intro h3 {
+  padding: 10px 0px;
+  line-height: 27px;
+  font-size: 17px;
+  font-weight: 400;
+  font-family: "Roboto";
+  font-style: normal;
+  text-align: center;
+  color: #f1d3b9;
+}
+
+nav {
+  background: #F6F4EC;
+}
+
+nav ul {
+  display: inline-block;
+}
+
+nav li {
+  display: inline-block;
+}
+
+ul li {
+  margin: 20px 8px;
+}
+
+.nav_right {
+  margin-left: 500px;
+}
+
+.logo_img {
+  margin: 0px 0px -20px 280px;
+}
+
+.bag_img{
+  margin-bottom: -4px;
+}
+
+nav a {
+  font-family: "roboto-light", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  text-transform: capitalize;
+  color: #b4604d;
+}

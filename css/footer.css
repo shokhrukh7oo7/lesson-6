@@ -1,0 +1,71 @@
+.container {
+  background: #f6f4ec;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #b45f4d;
+}
+
+.footer_ul1 {
+  width: 89px;
+  height: 20px;
+  padding-top: 64px;
+  padding-left: 50px;
+  text-align: start;
+}
+
+#footer_ul2 {
+  margin-left: -700px;
+}
+
+.footer_ul3 {
+  margin-top: -170px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: #c17c6c;
+  text-align: right;
+}
+
+.button {
+  width: 500px;
+  height: 44px;
+  border: 2px solid #b5614d;
+  border-radius: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 0px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #b45f4d;
+}
+
+.end_footer {
+  padding: 18px 0;
+  display: inline-block;
+  text-align: center;
+  width: 200px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: #c17c6c;
+}
+
+.first_button:hover {
+  color: red;
+  background: black;
+  transition-delay: 0s;
+}
